@@ -33,7 +33,7 @@ python main.py
 **Note** If running this in Jupyter Notebook system messages, such as those regarding test status, may appear in the terminal rather than the notebook.
 
 ## Results Sample
-Full list of result images in the `runs` folder.
+Full list of results images in the `runs` folder.
 
 ![alt text][image1]
 
