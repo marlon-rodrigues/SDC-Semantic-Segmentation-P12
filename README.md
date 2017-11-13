@@ -8,10 +8,10 @@ In this project, I labeled the pixels of a road in images using a Fully Convolut
 
 [//]: # (Image References)
 
-[image1]: ./runs/1510550374.5057514/um_000049.png "Sample Run Image 1"
+[image1]: ./runs/1510550374.5057514/umm_000049.png "Sample Run Image 1"
 [image2]: ./runs/1510550374.5057514/um_000060.png "Sample Run Image 2"
-[image3]: ./runs/1510550374.5057514/um_000026.png "Sample Run Image 3"
-[image4]: ./runs/1510550374.5057514/um_000095.png "Sample Run Image 4"
+[image3]: ./runs/1510550374.5057514/uu_000026.png "Sample Run Image 3"
+[image4]: ./runs/1510550374.5057514/uu_000095.png "Sample Run Image 4"
 
 ## Overview 
 
