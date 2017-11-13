@@ -1,4 +1,4 @@
-# SDC-Semantic-Segmentation-P11
+# SDC-Semantic-Segmentation-P12
 
 ## Semantic Segmentation
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
